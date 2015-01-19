@@ -1,0 +1,2 @@
+# obscure.js
+Obscure 
