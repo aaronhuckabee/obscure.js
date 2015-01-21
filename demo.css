@@ -1,0 +1,14 @@
+form {
+    padding-top: 60px;
+}
+input,
+textarea {
+    width: 400px;
+    float: left;
+    clear: left;
+    margin: 10px;
+}
+input {
+    float: left;
+    clear: left;
+}

@@ -9,6 +9,8 @@ Simply change the 'message' variable to the desired content and load.
 
 Next Version: 0.2.0 TODOs
 
-// Break out to multiple lines (use panelWidth variable);
+// **Break out to multiple lines (use panelWidth variable);
+// Build to output html
+// Figure out how to insert text into a javascript function without including the pertinent string
 // Build to output javascript
 // Build in randomization for all variable names.
